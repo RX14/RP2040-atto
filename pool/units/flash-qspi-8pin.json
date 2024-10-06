@@ -1,0 +1,85 @@
+{
+    "manufacturer": "Winbond",
+    "name": "QSPI Flash (8 Pin)",
+    "pins": {
+        "5e2ad14a-27d5-4776-9294-ce962eb89589": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CS",
+            "swap_group": 0
+        },
+        "6b36de77-6dfd-497e-bb14-fd20b1cb54a9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "786932b5-1ffa-4749-8605-e42f24d4defd": {
+            "alt_names": {
+                "ca018408-88a4-437c-a9a2-4add24c2e10c": {
+                    "direction": "input",
+                    "name": "SI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SIO0",
+            "swap_group": 0
+        },
+        "9e5f2ffe-57e0-4dba-8a79-bf01e59b3b4c": {
+            "alt_names": {
+                "19a92172-a4db-43b9-b1c1-a9031775bb99": {
+                    "direction": "input",
+                    "name": "~WP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SIO2",
+            "swap_group": 0
+        },
+        "d9346c3c-4afb-48fa-9580-4458b5a4da91": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCK",
+            "swap_group": 0
+        },
+        "d9dd6539-a088-4ad8-8fef-7f762a98d23c": {
+            "alt_names": {
+                "19b6f101-169b-4a04-ba0a-4559a1452cc2": {
+                    "direction": "input",
+                    "name": "~RESET"
+                },
+                "b2c784d9-c3ab-4cec-b6b2-350931a21f08": {
+                    "direction": "input",
+                    "name": "~HOLD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SIO3",
+            "swap_group": 0
+        },
+        "dcc7ab4d-b87a-498c-9931-953ae6b1f90e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "f058ded3-e845-4faf-9b2b-abb27f6e6548": {
+            "alt_names": {
+                "5fc2742b-82fa-4877-a8a2-42dac8f5e28d": {
+                    "direction": "output",
+                    "name": "SO"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SIO1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5489f4ec-5760-4f66-8a2d-8474ed31cf88",
+    "version": 1
+}

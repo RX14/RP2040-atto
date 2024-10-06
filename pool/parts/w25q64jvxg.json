@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "W25Q64JVXG"
+    ],
+    "datasheet": [
+        false,
+        "https://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/?__locale=en&partNo=W25Q64JV"
+    ],
+    "description": [
+        false,
+        "64Mbit Serial Flash Memory with uniform 4KB sectors and Dual/Quad SPI"
+    ],
+    "entity": "94422fc5-8f95-4e00-afc5-7c6b0add353d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Winbond"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b8ce40f0-ae9f-484e-a5af-711ccabc97fc",
+    "pad_map": {
+        "094668b4-0679-4791-b544-4dc34e066e9e": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "f058ded3-e845-4faf-9b2b-abb27f6e6548"
+        },
+        "2fb7d229-b5aa-41b3-a99a-75cfe6778d56": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "5e2ad14a-27d5-4776-9294-ce962eb89589"
+        },
+        "52c22ad7-b1ef-4fae-9c45-fdb8a473171f": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "6b36de77-6dfd-497e-bb14-fd20b1cb54a9"
+        },
+        "5d412698-bbb0-4d4a-b143-13d20aba58e3": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "6b36de77-6dfd-497e-bb14-fd20b1cb54a9"
+        },
+        "c5bde251-c0dc-43b2-9c7b-82d59ecd1c81": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "9e5f2ffe-57e0-4dba-8a79-bf01e59b3b4c"
+        },
+        "cf2bc694-61b5-49b5-8631-c834025401c3": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "786932b5-1ffa-4749-8605-e42f24d4defd"
+        },
+        "d1d78380-2e41-448d-8418-2e9f69f871ab": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "d9346c3c-4afb-48fa-9580-4458b5a4da91"
+        },
+        "d4994898-0b81-4beb-8f82-9410e4762b0d": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "d9dd6539-a088-4ad8-8fef-7f762a98d23c"
+        },
+        "dc69cda0-fe34-420f-b905-d01fcab5477d": {
+            "gate": "d886168d-53e9-4392-b2dd-c48def611958",
+            "pin": "dcc7ab4d-b87a-498c-9931-953ae6b1f90e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "39e7f5cd-6adb-4fa7-9944-3c41c7e34000",
+    "value": [
+        false,
+        ""
+    ]
+}

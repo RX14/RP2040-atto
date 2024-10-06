@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "d886168d-53e9-4392-b2dd-c48def611958": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5489f4ec-5760-4f66-8a2d-8474ed31cf88"
+        }
+    },
+    "manufacturer": "Winbond",
+    "name": "QSPI Flash (8 Pin)",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "94422fc5-8f95-4e00-afc5-7c6b0add353d"
+}

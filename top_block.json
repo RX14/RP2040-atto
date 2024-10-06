@@ -1,0 +1,660 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {
+        "6299df08-ed3e-4753-8e3b-ff4219217b57": {
+            "alt_pins": {},
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "be953a73-bb2c-4ffb-a27d-d58664214dfb"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "a36592d6-5ca8-49f2-b205-543c82de37b3"
+                }
+            },
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+            "pin_names": {},
+            "refdes": "C101",
+            "tag": "608e0709-33e8-4d6c-ae87-9ad392550096",
+            "value": ""
+        },
+        "9369ad45-b364-4e9b-8e8b-28f36f5d6940": {
+            "alt_pins": {},
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "be953a73-bb2c-4ffb-a27d-d58664214dfb"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "9202bf00-3273-469a-b795-bc01cc0a6c64"
+                }
+            },
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+            "pin_names": {},
+            "refdes": "C102",
+            "tag": "92bfe8fb-4120-4460-97c9-ed0a5e3ea93e",
+            "value": ""
+        },
+        "d16479db-4f74-4896-a48f-0f4e116de061": {
+            "alt_pins": {},
+            "connections": {
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/132b84dd-82d6-4375-ae89-27ee3b6ae67b": {
+                    "net": "5d67dcc0-80db-498c-a531-74048a96c8ea"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/181a8482-6585-494a-a18d-3fe6bb953d01": {
+                    "net": "743fe141-d1c9-4c36-bb50-ed86ddb0b598"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/1c3b41c7-7b23-4703-9be8-5e3f13909d97": {
+                    "net": "9202bf00-3273-469a-b795-bc01cc0a6c64"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/29c6db82-570e-464f-a4da-c01ed18cdc2d": {
+                    "net": "466b4eb2-0b32-44cc-98e0-44840eb2b6ad"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/2af0f2e9-381f-4fb6-a178-7fcac71b05c6": {
+                    "net": "14cadfbd-7a3f-4890-8370-40b68af37d6a"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/2e3b6680-7325-4f88-97a3-1bcedd297f07": {
+                    "net": "cc80b280-e8c6-4efa-8b77-416063efac83"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/2f90d826-3fae-417e-9842-fd7ae1b09ad5": {
+                    "net": "39276fe4-49cd-4c28-ae60-fa9938856cd5"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/38f3d2cb-b3ba-4b8b-a174-221be2e764e1": {
+                    "net": "a36592d6-5ca8-49f2-b205-543c82de37b3"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/486f08b8-0633-46fe-8774-71e92ebb84de": {
+                    "net": "a70dfb2d-5cc3-4bcb-9d52-2ce4e1e0e27d"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/49afc427-d4cf-4155-85b1-e58a395477d0": {
+                    "net": "3d396e1f-e73c-4fc0-96bb-72b4fbc3b099"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/4c827b02-ce12-4a06-bcdb-ec789a32b415": {
+                    "net": "d7389051-0b82-466b-8754-a000ab9c2709"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/590b7ff0-82ec-4525-8846-bcfdb5bd7413": {
+                    "net": "7266dcb4-6841-4f0c-a48b-e7b077774f1f"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/5d3ad885-bbf5-412b-b21c-1ed86a9c1c13": {
+                    "net": "ceb464f6-8c91-418d-97ba-771fc033188a"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/610f228a-fc44-476f-92c0-6f21913759a6": {
+                    "net": "66eabd52-fbfe-47d5-b7dd-08fa8ca5f6c4"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/69645366-4839-4fe9-928e-ab965abc8bb6": {
+                    "net": "29b4da01-79bf-4bda-b3b6-21c9f18b72a8"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/6ab3ab01-c4f8-46c4-8d36-487cd0c4ba96": {
+                    "net": "03d5458f-1995-46c3-b5a4-6f196ee3fcb6"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/779ffe50-44f2-4e1f-975a-cbf15c2d2aed": {
+                    "net": "7cd1e719-7e96-4dd3-b614-99af9ae06079"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/77d23326-bc37-4f3d-abb7-899a0450e56c": {
+                    "net": "69cb1f28-3a05-4237-a662-8569174c65ae"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/796d2e9e-56b8-4469-87b4-bf0b6c180429": {
+                    "net": "4819b2f2-813e-4eaa-af03-1e4c55a46d8e"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/7f06901e-a73b-444f-bbc3-f575d3117d73": {
+                    "net": "9332558e-19e2-4db7-befb-3d2c3a6067ed"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/83ee0f3a-7b05-4c20-b9d8-ce0f4aa2d475": {
+                    "net": "a053736a-a4b8-4670-b594-7d8e2689a2b6"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/8d1fdac3-4228-44ae-8c6e-4e12ed322711": {
+                    "net": "9202bf00-3273-469a-b795-bc01cc0a6c64"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/94b06912-c8fa-435d-ae15-b277e899d518": {
+                    "net": "866a8e14-63a5-4e75-bd83-bd0f63a11a01"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/989155a7-e001-45e2-a6f9-2f537d59d67e": {
+                    "net": "65d290f7-06dc-4582-a313-1a2708f5dd2d"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/9e46083e-d9e0-448b-ac9f-f8bb00799876": {
+                    "net": "77ce36cc-fff2-427a-a851-4ae07ee62654"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/a23257b5-5b6a-4e3d-b89b-da3c458397dc": {
+                    "net": "499e3715-32fa-4fe0-b38a-c68b5832ba50"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/a4681644-ed49-48fb-b4b6-fff455c8939c": {
+                    "net": "89e38652-70f7-4ae9-b20d-31e57d029f35"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/b3242538-4295-4b62-b619-d7e0ecb1b49e": {
+                    "net": "9202bf00-3273-469a-b795-bc01cc0a6c64"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/b8238e15-9f69-424e-92d8-c42c230fe5dd": {
+                    "net": "1ae1808b-62b7-41bb-bfe6-c3fd1e5279ea"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/b87acafe-becf-4a77-9083-5c47ea9c013e": {
+                    "net": "78aebf45-386f-48a1-a25f-553957756225"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/b87dec37-4b90-4046-ac88-875ea62633cb": {
+                    "net": "6678f1da-c1f7-499b-8340-97f3dd702198"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/bc3e95c7-ec89-4bd7-adca-a8f82c3948bb": {
+                    "net": "026069f4-21e1-4597-8d5f-db5947dccefc"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/bd1f10c9-79db-47d4-8cb9-fd2af25857cb": {
+                    "net": "a0323ca0-23e3-4629-809a-b760fabeb6ba"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/c44f7989-1efc-4ae9-bf24-c93cc96b7f44": {
+                    "net": "abcc30b7-e3f7-4890-b65c-eb2908aa0ab1"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/c50ac87d-ab86-4b97-8c4d-652be0b49939": {
+                    "net": "f92b562b-3ce1-458c-94c6-9dc43e579e77"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/c7aca0af-df6d-4810-a207-7c6c6978545c": {
+                    "net": "700c72db-793b-4ec8-9f71-f6fafb643246"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/d0f37dc3-4e46-4279-b018-3d1f42ada270": {
+                    "net": "be953a73-bb2c-4ffb-a27d-d58664214dfb"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/d1271e7b-0d80-4523-8508-5e18d2748683": {
+                    "net": "ee6a4602-b55f-4bdd-99db-d64330089fee"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/d2a77acd-91f8-460e-b8ad-97f01dfde358": {
+                    "net": "689c649e-72b2-4f85-b0a8-946cb42259de"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/d7be1ea3-68c7-4de3-a3a2-e45835e62c23": {
+                    "net": "399bd5b4-29bd-46a4-bec0-b2764a6bdbf7"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/dde87d97-c8f7-4575-a348-fc8340bb95db": {
+                    "net": "9cc7773d-2a56-41e3-95f7-b19b9dcc992b"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/e1ac9a72-1077-403b-9bbc-65c5f0b6e196": {
+                    "net": "2475e455-3e57-4d73-b90a-3ba68b32da45"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/e6f5dc1a-3d8a-4785-af4b-2a32b55f04de": {
+                    "net": "4574d2c9-3966-4170-8d1d-d63f26f78e5a"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/eb213c8b-f8ff-4170-abbc-f8dc41d40add": {
+                    "net": "c934f535-aaf6-4e3c-8e4f-73a489fe3ff1"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/edde9fbb-a114-4517-884c-d2129216ec94": {
+                    "net": "4195b480-cc51-4059-9629-a0e21348b117"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/fe57b0a1-159a-4222-a671-25754b22ea5a": {
+                    "net": "9202bf00-3273-469a-b795-bc01cc0a6c64"
+                },
+                "3e325944-c763-4730-bdad-20f1e0a58f8b/ff0c2813-188d-4484-a59f-6c21eb304e70": {
+                    "net": "a36592d6-5ca8-49f2-b205-543c82de37b3"
+                }
+            },
+            "entity": "1f8d0754-ffc4-41dd-a8e0-211a72c0513b",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "07d28d72-26a8-4b3b-a6dd-6d671bf85993",
+            "pin_names": {},
+            "refdes": "U101",
+            "tag": "107fb795-485a-4864-92aa-98b53a4fe046",
+            "value": ""
+        },
+        "e569f9c1-963b-4261-bfcb-eb4aaef99a97": {
+            "alt_pins": {},
+            "connections": {
+                "d886168d-53e9-4392-b2dd-c48def611958/5e2ad14a-27d5-4776-9294-ce962eb89589": {
+                    "net": "78aebf45-386f-48a1-a25f-553957756225"
+                },
+                "d886168d-53e9-4392-b2dd-c48def611958/6b36de77-6dfd-497e-bb14-fd20b1cb54a9": {
+                    "net": "be953a73-bb2c-4ffb-a27d-d58664214dfb"
+                },
+                "d886168d-53e9-4392-b2dd-c48def611958/786932b5-1ffa-4749-8605-e42f24d4defd": {
+                    "net": "1ae1808b-62b7-41bb-bfe6-c3fd1e5279ea"
+                },
+                "d886168d-53e9-4392-b2dd-c48def611958/9e5f2ffe-57e0-4dba-8a79-bf01e59b3b4c": {
+                    "net": "29b4da01-79bf-4bda-b3b6-21c9f18b72a8"
+                },
+                "d886168d-53e9-4392-b2dd-c48def611958/d9346c3c-4afb-48fa-9580-4458b5a4da91": {
+                    "net": "a053736a-a4b8-4670-b594-7d8e2689a2b6"
+                },
+                "d886168d-53e9-4392-b2dd-c48def611958/d9dd6539-a088-4ad8-8fef-7f762a98d23c": {
+                    "net": "14cadfbd-7a3f-4890-8370-40b68af37d6a"
+                },
+                "d886168d-53e9-4392-b2dd-c48def611958/dcc7ab4d-b87a-498c-9931-953ae6b1f90e": {
+                    "net": "9202bf00-3273-469a-b795-bc01cc0a6c64"
+                },
+                "d886168d-53e9-4392-b2dd-c48def611958/f058ded3-e845-4faf-9b2b-abb27f6e6548": {
+                    "net": "cc80b280-e8c6-4efa-8b77-416063efac83"
+                }
+            },
+            "entity": "94422fc5-8f95-4e00-afc5-7c6b0add353d",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "39e7f5cd-6adb-4fa7-9944-3c41c7e34000",
+            "pin_names": {},
+            "refdes": "U102",
+            "tag": "5bb40c76-bc4f-4bfa-a2a1-50f3ccc0719a",
+            "value": ""
+        }
+    },
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+    "net_classes": {
+        "55a58a6b-9245-4455-aeb8-934c6755b7f8": {
+            "name": "default"
+        }
+    },
+    "nets": {
+        "026069f4-21e1-4597-8d5f-db5947dccefc": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO9",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "03d5458f-1995-46c3-b5a4-6f196ee3fcb6": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO23",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "14cadfbd-7a3f-4890-8370-40b68af37d6a": {
+            "is_port": false,
+            "is_power": false,
+            "name": "QSPI SD3",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "1ae1808b-62b7-41bb-bfe6-c3fd1e5279ea": {
+            "is_port": false,
+            "is_power": false,
+            "name": "QSPI SD0",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "2475e455-3e57-4d73-b90a-3ba68b32da45": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO14",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "29b4da01-79bf-4bda-b3b6-21c9f18b72a8": {
+            "is_port": false,
+            "is_power": false,
+            "name": "QSPI SD2",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "39276fe4-49cd-4c28-ae60-fa9938856cd5": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO28",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "399bd5b4-29bd-46a4-bec0-b2764a6bdbf7": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO10",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "3d396e1f-e73c-4fc0-96bb-72b4fbc3b099": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO24",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "4195b480-cc51-4059-9629-a0e21348b117": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO1",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "4574d2c9-3966-4170-8d1d-d63f26f78e5a": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO22",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "466b4eb2-0b32-44cc-98e0-44840eb2b6ad": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO4",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "4819b2f2-813e-4eaa-af03-1e4c55a46d8e": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO7",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "499e3715-32fa-4fe0-b38a-c68b5832ba50": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO3",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "5d67dcc0-80db-498c-a531-74048a96c8ea": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO8",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "65d290f7-06dc-4582-a313-1a2708f5dd2d": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO6",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "6678f1da-c1f7-499b-8340-97f3dd702198": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO2",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "66eabd52-fbfe-47d5-b7dd-08fa8ca5f6c4": {
+            "is_port": false,
+            "is_power": false,
+            "name": "SWDIO",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "689c649e-72b2-4f85-b0a8-946cb42259de": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO20",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "69cb1f28-3a05-4237-a662-8569174c65ae": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO21",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "700c72db-793b-4ec8-9f71-f6fafb643246": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO17",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "7266dcb4-6841-4f0c-a48b-e7b077774f1f": {
+            "is_port": false,
+            "is_power": false,
+            "name": "SWCLK",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "743fe141-d1c9-4c36-bb50-ed86ddb0b598": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO25",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "77ce36cc-fff2-427a-a851-4ae07ee62654": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO0",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "78aebf45-386f-48a1-a25f-553957756225": {
+            "is_port": false,
+            "is_power": false,
+            "name": "~QSPI SS",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "7cd1e719-7e96-4dd3-b614-99af9ae06079": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO16",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "866a8e14-63a5-4e75-bd83-bd0f63a11a01": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO11",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "89e38652-70f7-4ae9-b20d-31e57d029f35": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO15",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "9202bf00-3273-469a-b795-bc01cc0a6c64": {
+            "is_port": false,
+            "is_power": true,
+            "name": "3V3",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "9332558e-19e2-4db7-befb-3d2c3a6067ed": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO13",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "9cc7773d-2a56-41e3-95f7-b19b9dcc992b": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO12",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "a0323ca0-23e3-4629-809a-b760fabeb6ba": {
+            "is_port": false,
+            "is_power": false,
+            "name": "USB D-",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "a053736a-a4b8-4670-b594-7d8e2689a2b6": {
+            "is_port": false,
+            "is_power": false,
+            "name": "QSPI SCLK",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "a36592d6-5ca8-49f2-b205-543c82de37b3": {
+            "is_port": false,
+            "is_power": true,
+            "name": "1V1",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "a70dfb2d-5cc3-4bcb-9d52-2ce4e1e0e27d": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO18",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "abcc30b7-e3f7-4890-b65c-eb2908aa0ab1": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO26",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "be953a73-bb2c-4ffb-a27d-d58664214dfb": {
+            "is_port": false,
+            "is_power": true,
+            "name": "GND",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "c934f535-aaf6-4e3c-8e4f-73a489fe3ff1": {
+            "is_port": false,
+            "is_power": false,
+            "name": "USB D+",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "cc80b280-e8c6-4efa-8b77-416063efac83": {
+            "is_port": false,
+            "is_power": false,
+            "name": "QSPI SD1",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "ceb464f6-8c91-418d-97ba-771fc033188a": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO19",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "d7389051-0b82-466b-8754-a000ab9c2709": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO5",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "ee6a4602-b55f-4bdd-99db-d64330089fee": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO27",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "f92b562b-3ce1-458c-94c6-9dc43e579e77": {
+            "is_port": false,
+            "is_power": false,
+            "name": "GPIO29",
+            "net_class": "55a58a6b-9245-4455-aeb8-934c6755b7f8",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        }
+    },
+    "project_meta": {
+        "author": "Stephanie Wilde-Hobbs",
+        "date": "2024-10-06",
+        "license": "CC BY-SA 4.0",
+        "project_name": "RP2040-atto",
+        "project_title": "RP2040 Atto",
+        "rev": "1"
+    },
+    "tag_names": {
+        "107fb795-485a-4864-92aa-98b53a4fe046": "0",
+        "5bb40c76-bc4f-4bfa-a2a1-50f3ccc0719a": "3",
+        "608e0709-33e8-4d6c-ae87-9ad392550096": "1",
+        "92bfe8fb-4120-4460-97c9-ed0a5e3ea93e": "2"
+    },
+    "uuid": "7c78c927-b849-4c32-bf22-6d7c6cf37b69"
+}
